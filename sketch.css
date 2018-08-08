@@ -20,8 +20,8 @@ h1 {
   margin: 0 auto 15px auto;
   max-width: 480px;
   height: 450px;
-  border-radius: 20px;
-  border: 13px solid #70a040;
+  border-radius: 3px;
+  border: 6px solid #70a040;
   background-color: white;
   overflow: hidden;
 }
@@ -53,4 +53,5 @@ h1 {
   color: #f2e4da;
   background-color: rgb(17, 55, 96);
   border-style: hidden;
+  border-radius: 11px;
 }
